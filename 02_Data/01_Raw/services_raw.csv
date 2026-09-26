@@ -1,0 +1,9 @@
+service_id,service_name,category,description,price,unit,availability
+S001,Breakfast,Food & Beverage,Daily breakfast buffet,450,per_person,Available
+S002,Room Service,Food & Beverage,Food and beverages delivered to the room,150,per_order,Available
+S003,Airport Transfer,Transportation,Private airport pickup or drop-off,800,per_trip,Available
+S004,Laundry,Housekeeping,Laundry and dry-cleaning service,200,per_kg,Available
+S005,Spa,Wellness,Relaxation and spa treatment,1200,per_session,Available
+S006,Gym,Fitness,Access to hotel fitness center,300,per_day,Available
+S007,Extra Bed,Room Service,Additional bed for the guest room,600,per_night,Available
+S008,Late Checkout,Room Service,Extended checkout time,500,per_request,Available

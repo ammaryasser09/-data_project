@@ -1,0 +1,49 @@
+Retrieval results — v4 — SYSTEM_DATE 2026-09-19
+BGE-M3 (dense/hybrid) was not run: no internet access where this package was built. Run:
+  pip install sentence-transformers && python3 -m 09_Application.rag.evaluate --mode hybrid
+
+=== A. KB index only (English KB), BM25, held-out test split ===
+
+Retriever: bm25 | FAQ index: off | queries: test (573)
+                           n    R@1    R@3    R@5    MRR
+English                  111  0.324  0.459  0.495  0.414
+French                   183  0.071  0.169  0.213  0.131
+Russian                  117  0.026  0.051  0.068  0.039
+Arabic                   120  0.000  0.008  0.008  0.009
+Arabic-Egyptian           42  0.000  0.000  0.024  0.005
+ALL                      573  0.091  0.155  0.182  0.132
+unseen:English           106  0.340  0.481  0.519  0.431
+unseen:French            171  0.058  0.158  0.205  0.119
+unseen:Russian           114  0.026  0.053  0.070  0.040
+unseen:Arabic            113  0.000  0.009  0.009  0.010
+unseen:Arabic-Egyptian    38  0.000  0.000  0.000  0.000
+unseen:ALL               542  0.090  0.157  0.183  0.132
+
+=== B. KB + FAQ-train index, BM25, held-out test split ===
+
+Retriever: bm25 | FAQ index: train | queries: test (573)
+                           n    R@1    R@3    R@5    MRR
+English                  111  0.360  0.486  0.604  0.474
+French                   183  0.098  0.377  0.525  0.271
+Russian                  117  0.188  0.359  0.453  0.294
+Arabic                   120  0.200  0.317  0.450  0.298
+Arabic-Egyptian           42  0.238  0.429  0.476  0.371
+ALL                      573  0.199  0.386  0.506  0.328
+unseen:English           106  0.377  0.509  0.632  0.491
+unseen:French            171  0.094  0.374  0.532  0.267
+unseen:Russian           114  0.184  0.360  0.447  0.290
+unseen:Arabic            113  0.212  0.336  0.469  0.315
+unseen:Arabic-Egyptian    38  0.211  0.395  0.447  0.345
+unseen:ALL               542  0.201  0.391  0.515  0.331
+
+=== C. Realistic Egyptian test set (questions routed to RAG or refusal) ===
+
+Retriever: bm25 | FAQ index: off | queries: realistic test set (115)
+                           n    R@1    R@3    R@5    MRR
+Arabic-Egyptian          115  0.017  0.017  0.043  0.029
+ALL                      115  0.017  0.017  0.043  0.029
+
+Retriever: bm25 | FAQ index: train | queries: realistic test set (115)
+                           n    R@1    R@3    R@5    MRR
+Arabic-Egyptian          115  0.417  0.530  0.583  0.490
+ALL                      115  0.417  0.530  0.583  0.490

@@ -1,0 +1,126 @@
+request_id,customer_id,booking_id,request_type,request_text,request_status,created_at,fulfilled_at
+SR00001,C003549,B014962,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Cancelled,2026-04-15 15:25:58,
+SR00002,C004520,B016327,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-07-04 15:25:58,
+SR00003,C000295,B008260,Checkout Extension,Checkout Extension: Special accommodation request from guest,Approved,2026-08-07 15:25:58,
+SR00004,C009604,B009205,Transportation,Transportation: Special accommodation request from guest,Cancelled,2026-07-26 15:25:58,
+SR00005,C009190,B007719,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Cancelled,2026-09-04 15:25:58,
+SR00006,C004824,B014579,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Approved,2026-08-04 15:25:58,
+SR00007,C008499,B003197,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Fulfilled,2026-04-29 15:25:58,2026-09-12 15:25:58
+SR00008,C002861,B004684,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Fulfilled,2026-04-06 15:25:58,2026-08-19 15:25:58
+SR00009,C008745,B015824,Transportation,Transportation: Special accommodation request from guest,Fulfilled,2026-04-21 15:25:58,2026-08-31 15:25:58
+SR00010,C005031,B005933,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Denied,2026-08-24 15:25:58,2026-09-16 15:25:58
+SR00011,C000222,B002058,Service Request,Service Request: Special accommodation request from guest,Approved,2026-07-23 15:25:58,
+SR00012,C001215,B005308,Service Request,Service Request: Special accommodation request from guest,Fulfilled,2026-07-04 15:25:58,2026-09-02 15:25:58
+SR00013,C002468,B007598,Service Request,Service Request: Special accommodation request from guest,Pending,2026-08-15 15:25:58,
+SR00014,C004274,B017505,Accessibility Request,Accessibility Request: Special accommodation request from guest,Denied,2026-09-03 15:25:58,2026-09-04 15:25:58
+SR00015,C005974,B016873,Accessibility Request,Accessibility Request: Special accommodation request from guest,Denied,2026-05-16 15:25:58,2026-09-07 15:25:58
+SR00016,C008955,B005136,Room Preference,Room Preference: Special accommodation request from guest,Approved,2026-09-13 15:25:58,
+SR00017,C009371,B006774,Transportation,Transportation: Special accommodation request from guest,Cancelled,2026-07-01 15:25:58,
+SR00018,C009479,B016713,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Fulfilled,2026-05-31 15:25:58,2026-08-20 15:25:58
+SR00019,C008397,B012299,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-06-22 15:25:58,
+SR00020,C006746,B000975,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-07-14 15:25:58,
+SR00021,C000899,B004764,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Cancelled,2026-05-15 15:25:58,
+SR00022,C005049,B019697,Accessibility Request,Accessibility Request: Special accommodation request from guest,Denied,2026-04-21 15:25:58,2026-08-23 15:25:58
+SR00023,C008765,B007290,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-05-17 15:25:58,
+SR00024,C002756,B006406,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Pending,2026-05-08 15:25:58,
+SR00025,C003263,B007876,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Approved,2026-05-08 15:25:58,
+SR00026,C005511,B015815,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-08-02 15:25:58,2026-08-18 15:25:58
+SR00027,C004657,B000193,Room Preference,Room Preference: Special accommodation request from guest,Fulfilled,2026-04-24 15:25:58,2026-09-16 15:25:58
+SR00028,C002022,B001929,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-04-21 15:25:58,
+SR00029,C002375,B001298,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-06-19 15:25:58,
+SR00030,C000384,B004986,Checkout Extension,Checkout Extension: Special accommodation request from guest,Fulfilled,2026-05-21 15:25:58,2026-08-24 15:25:58
+SR00031,C000564,B016662,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Fulfilled,2026-05-24 15:25:58,2026-09-11 15:25:58
+SR00032,C002673,B008597,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Approved,2026-08-02 15:25:58,
+SR00033,C008076,B000100,Transportation,Transportation: Special accommodation request from guest,Pending,2026-06-16 15:25:58,
+SR00034,C005688,B007997,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Cancelled,2026-05-26 15:25:58,
+SR00035,C006374,B018998,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Denied,2026-06-26 15:25:58,2026-08-30 15:25:58
+SR00036,C002835,B008963,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-07-08 15:25:58,
+SR00037,C005440,B007455,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-05-03 15:25:58,2026-09-14 15:25:58
+SR00038,C004324,B005155,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-04-14 15:25:58,2026-09-12 15:25:58
+SR00039,C008259,B000039,Service Request,Service Request: Special accommodation request from guest,Fulfilled,2026-07-24 15:25:58,2026-08-20 15:25:58
+SR00040,C007080,B012783,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Approved,2026-08-07 15:25:58,
+SR00041,C001723,B006138,Transportation,Transportation: Special accommodation request from guest,Pending,2026-04-26 15:25:58,
+SR00042,C005527,B001588,Transportation,Transportation: Special accommodation request from guest,Pending,2026-08-22 15:25:58,
+SR00043,C006086,B002151,Service Request,Service Request: Special accommodation request from guest,Pending,2026-06-24 15:25:58,
+SR00044,C002900,B000693,Service Request,Service Request: Special accommodation request from guest,Denied,2026-06-05 15:25:58,2026-08-25 15:25:58
+SR00045,C005504,B014596,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-05-22 15:25:58,
+SR00046,C009191,B011422,Transportation,Transportation: Special accommodation request from guest,Denied,2026-09-10 15:25:58,2026-09-17 15:25:58
+SR00047,C001443,B004339,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Cancelled,2026-04-10 15:25:58,
+SR00048,C003595,B014256,Checkout Extension,Checkout Extension: Special accommodation request from guest,Denied,2026-05-07 15:25:58,2026-08-24 15:25:58
+SR00049,C004361,B007875,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-06-27 15:25:58,2026-09-06 15:25:58
+SR00050,C002330,B011370,Checkout Extension,Checkout Extension: Special accommodation request from guest,Fulfilled,2026-06-13 15:25:58,2026-08-28 15:25:58
+SR00051,C002526,B017456,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Pending,2026-08-23 15:25:58,
+SR00052,C000604,B012752,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Pending,2026-09-02 15:25:58,
+SR00053,C001443,B018953,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-05-16 15:25:58,
+SR00054,C004424,B013321,Service Request,Service Request: Special accommodation request from guest,Approved,2026-05-17 15:25:58,
+SR00055,C001986,B007635,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Pending,2026-04-15 15:25:58,
+SR00056,C003385,B019397,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-05-01 15:25:58,
+SR00057,C003600,B012074,Transportation,Transportation: Special accommodation request from guest,Pending,2026-08-23 15:25:58,
+SR00058,C000737,B016789,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Approved,2026-09-13 15:25:58,
+SR00059,C007332,B016680,Checkout Extension,Checkout Extension: Special accommodation request from guest,Approved,2026-09-15 15:25:58,
+SR00060,C009090,B005324,Service Request,Service Request: Special accommodation request from guest,Approved,2026-09-05 15:25:58,
+SR00061,C001473,B011816,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Fulfilled,2026-05-07 15:25:58,2026-09-04 15:25:58
+SR00062,C000041,B001663,Accessibility Request,Accessibility Request: Special accommodation request from guest,Cancelled,2026-06-30 15:25:58,
+SR00063,C005996,B019284,Service Request,Service Request: Special accommodation request from guest,Approved,2026-08-29 15:25:58,
+SR00064,C005311,B019263,Room Preference,Room Preference: Special accommodation request from guest,Approved,2026-05-21 15:25:58,
+SR00065,C003884,B005473,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Approved,2026-05-11 15:25:58,
+SR00066,C008976,B007279,Checkout Extension,Checkout Extension: Special accommodation request from guest,Cancelled,2026-07-11 15:25:58,
+SR00067,C003454,B017257,Room Preference,Room Preference: Special accommodation request from guest,Approved,2026-06-10 15:25:58,
+SR00068,C004893,B016513,Transportation,Transportation: Special accommodation request from guest,Denied,2026-06-30 15:25:58,2026-09-01 15:25:58
+SR00069,C006733,B012973,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Cancelled,2026-03-30 15:25:58,
+SR00070,C004718,B014141,Checkout Extension,Checkout Extension: Special accommodation request from guest,Pending,2026-05-22 15:25:58,
+SR00071,C008890,B017814,Transportation,Transportation: Special accommodation request from guest,Approved,2026-08-16 15:25:58,
+SR00072,C004824,B018052,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Fulfilled,2026-07-21 15:25:58,2026-09-06 15:25:58
+SR00073,C006577,B011715,Checkout Extension,Checkout Extension: Special accommodation request from guest,Cancelled,2026-03-26 15:25:58,
+SR00074,C006886,B002002,Service Request,Service Request: Special accommodation request from guest,Denied,2026-06-18 15:25:58,2026-09-16 15:25:58
+SR00075,C004545,B019052,Service Request,Service Request: Special accommodation request from guest,Denied,2026-07-25 15:25:58,2026-09-02 15:25:58
+SR00076,C006015,B009148,Transportation,Transportation: Special accommodation request from guest,Approved,2026-07-19 15:25:58,
+SR00077,C005815,B018367,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-08-23 15:25:58,2026-08-30 15:25:58
+SR00078,C002720,B011422,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Pending,2026-06-11 15:25:58,
+SR00079,C002050,B011341,Service Request,Service Request: Special accommodation request from guest,Fulfilled,2026-07-02 15:25:58,2026-09-10 15:25:58
+SR00080,C005161,B001274,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Cancelled,2026-07-28 15:25:58,
+SR00081,C008010,B003867,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Cancelled,2026-05-27 15:25:58,
+SR00082,C002707,B011472,Checkout Extension,Checkout Extension: Special accommodation request from guest,Approved,2026-05-17 15:25:58,
+SR00083,C007390,B016813,Accessibility Request,Accessibility Request: Special accommodation request from guest,Denied,2026-03-29 15:25:58,2026-09-15 15:25:58
+SR00084,C001615,B009850,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Denied,2026-06-18 15:25:58,2026-09-14 15:25:58
+SR00085,C009435,B010432,Room Preference,Room Preference: Special accommodation request from guest,Pending,2026-03-23 15:25:58,
+SR00086,C002298,B017734,Service Request,Service Request: Special accommodation request from guest,Approved,2026-07-18 15:25:58,
+SR00087,C006569,B011815,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Fulfilled,2026-05-21 15:25:58,2026-09-11 15:25:58
+SR00088,C001438,B014521,Room Preference,Room Preference: Special accommodation request from guest,Pending,2026-04-01 15:25:58,
+SR00089,C002736,B003572,Checkout Extension,Checkout Extension: Special accommodation request from guest,Approved,2026-05-30 15:25:58,
+SR00090,C003748,B015200,Checkout Extension,Checkout Extension: Special accommodation request from guest,Cancelled,2026-03-27 15:25:58,
+SR00091,C006325,B018998,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Fulfilled,2026-08-13 15:25:58,2026-08-22 15:25:58
+SR00092,C006179,B007130,Accessibility Request,Accessibility Request: Special accommodation request from guest,Approved,2026-08-10 15:25:58,
+SR00093,C005661,B001695,Accessibility Request,Accessibility Request: Special accommodation request from guest,Cancelled,2026-06-14 15:25:58,
+SR00094,C001137,B005463,Checkout Extension,Checkout Extension: Special accommodation request from guest,Denied,2026-05-05 15:25:58,2026-09-08 15:25:58
+SR00095,C007834,B000789,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Cancelled,2026-07-01 15:25:58,
+SR00096,C009355,B007608,Accessibility Request,Accessibility Request: Special accommodation request from guest,Denied,2026-08-19 15:25:58,2026-08-28 15:25:58
+SR00097,C002927,B015061,Service Request,Service Request: Special accommodation request from guest,Approved,2026-04-05 15:25:58,
+SR00098,C003140,B018938,Transportation,Transportation: Special accommodation request from guest,Pending,2026-04-04 15:25:58,
+SR00099,C005016,B012904,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Approved,2026-06-14 15:25:58,
+SR00100,C001163,B007439,Checkout Extension,Checkout Extension: Special accommodation request from guest,Fulfilled,2026-07-17 15:25:58,2026-09-04 15:25:58
+SR00101,C004063,B007248,Accessibility Request,Accessibility Request: Special accommodation request from guest,Cancelled,2026-05-21 15:25:58,
+SR00102,C006676,B005058,Service Request,Service Request: Special accommodation request from guest,Approved,2026-08-07 15:25:58,
+SR00103,C006745,B019879,Service Request,Service Request: Special accommodation request from guest,Fulfilled,2026-07-17 15:25:58,2026-08-29 15:25:58
+SR00104,C006674,B000452,Celebration Arrangement,Celebration Arrangement: Special accommodation request from guest,Approved,2026-04-10 15:25:58,
+SR00105,C001065,B002687,Room Preference,Room Preference: Special accommodation request from guest,Approved,2026-04-19 15:25:58,
+SR00106,C003971,B004365,Room Preference,Room Preference: Special accommodation request from guest,Denied,2026-04-08 15:25:58,2026-09-01 15:25:58
+SR00107,C009809,B000909,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Denied,2026-08-22 15:25:58,2026-08-24 15:25:58
+SR00108,C007816,B016726,Transportation,Transportation: Special accommodation request from guest,Cancelled,2026-05-21 15:25:58,
+SR00109,C000434,B006424,Service Request,Service Request: Special accommodation request from guest,Approved,2026-05-11 15:25:58,
+SR00110,C007266,B004569,Service Request,Service Request: Special accommodation request from guest,Cancelled,2026-07-08 15:25:58,
+SR00111,C007602,B013321,Transportation,Transportation: Special accommodation request from guest,Approved,2026-04-30 15:25:58,
+SR00112,C004813,B019111,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-08-19 15:25:58,
+SR00113,C005845,B004885,Checkout Extension,Checkout Extension: Special accommodation request from guest,Denied,2026-05-14 15:25:58,2026-09-16 15:25:58
+SR00114,C005600,B003422,Transportation,Transportation: Special accommodation request from guest,Fulfilled,2026-06-23 15:25:58,2026-08-31 15:25:58
+SR00115,C005722,B002766,Room Preference,Room Preference: Special accommodation request from guest,Approved,2026-07-04 15:25:58,
+SR00116,C008893,B014128,Room Preference,Room Preference: Special accommodation request from guest,Cancelled,2026-04-16 15:25:58,
+SR00117,C006796,B000184,Service Request,Service Request: Special accommodation request from guest,Fulfilled,2026-03-21 15:25:58,2026-08-23 15:25:58
+SR00118,C001765,B012288,Accessibility Request,Accessibility Request: Special accommodation request from guest,Pending,2026-09-06 15:25:58,
+SR00119,C003270,B003497,Service Request,Service Request: Special accommodation request from guest,Denied,2026-07-20 15:25:58,2026-09-11 15:25:58
+SR00120,C008163,B012411,Service Request,Service Request: Special accommodation request from guest,Denied,2026-06-05 15:25:58,2026-09-14 15:25:58
+SR00121,C004156,B010510,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Pending,2026-06-21 15:25:58,
+SR00122,C005902,B000535,Checkout Extension,Checkout Extension: Special accommodation request from guest,Denied,2026-05-25 15:25:58,2026-08-23 15:25:58
+SR00123,C004448,B013644,Checkout Extension,Checkout Extension: Special accommodation request from guest,Fulfilled,2026-09-05 15:25:58,2026-08-31 15:25:58
+SR00124,C002164,B019143,Dietary Requirement,Dietary Requirement: Special accommodation request from guest,Cancelled,2026-08-28 15:25:58,
+SR00125,C001341,B004741,Transportation,Transportation: Special accommodation request from guest,Pending,2026-06-01 15:25:58,

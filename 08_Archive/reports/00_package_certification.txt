@@ -1,0 +1,45 @@
+SUPERSEDED / HISTORICAL — NOT SOURCE OF TRUTH
+============================================================
+
+HOTELAI FINAL DATASET — MASTER CERTIFICATION
+==========================================================
+FAQ master rows: 3461
+Unique IDs: 3461
+ID continuity: PASS
+Question/answer completeness: PASS
+Unique questions: 3461 / 3461
+
+Layers:
+  Original Gold: 1344
+  Enhanced intents: 1008
+  Edge cases: 96
+  Transaction/policy/service coverage: 864
+  Out-of-scope: 100
+  Egyptian dialect: 49
+  TOTAL: 3461
+
+Core languages:
+  Arabic: 839
+  English: 868
+  French: 856
+  Russian: 849
+  Arabic-Egyptian seed: 49
+
+Knowledge coverage:
+  RAG corpus: 156 sections / 40 documents
+  Canonical room_types.txt: database-aligned
+  Canonical booking_policy.txt: database-aligned
+
+Operational coverage:
+  Action intents defined: 14
+  Availability, booking, lookup, modification, cancellation, payment, refund,
+  complaints, special requests, loyalty, discounts, pricing, and human handoff.
+
+Certification result: PASS (see REVIEW_REPORT.md — 3 defects found and fixed after this certification was written)
+
+Important limitation:
+No finite synthetic dataset can cover literally every possible guest question.
+This package maximizes coverage across documented hotel knowledge, transactions,
+edge cases, out-of-scope handling, multilingual FAQ, multi-turn flows, and tool actions.
+Real production logs should be added later for typos, speech recognition errors,
+code-switching, novel intents, and naturally phrased guest questions.

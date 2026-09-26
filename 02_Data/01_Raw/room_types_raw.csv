@@ -1,0 +1,7 @@
+room_type_id,room_type_name,description,capacity,base_price
+RT001,Single,Comfortable room suitable for one guest,1,1800
+RT002,Double,Comfortable room suitable for two guests,2,2500
+RT003,Twin,Room with two separate beds,2,2700
+RT004,Deluxe,Spacious room with premium facilities,3,3800
+RT005,Family,Large room suitable for families,4,4500
+RT006,Suite,Luxury suite with separate living area,4,6500

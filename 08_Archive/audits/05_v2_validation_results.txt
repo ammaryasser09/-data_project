@@ -1,0 +1,45 @@
+SUPERSEDED / HISTORICAL — NOT SOURCE OF TRUTH (v2). See 07_Audits/Final/ for the current state.
+
+Validation results — generated 2026-09-21T11:14Z
+Regenerate: run each script from the project root.
+
+════ validate_dataset ════
+  PASS  complaint_tickets.csv: unique primary key  — 75 rows
+  PASS  special_requests_history.csv: unique primary key  — 125 rows
+
+==============================================================================
+RESULT: 51/51 checks passed
+==============================================================================
+
+════ validate_database ════
+[9] Availability is computable
+  PASS  availability query returns a sane number  — 20 of 150 rooms free on 2026-08-15
+
+==============================================================================
+RESULT: 27/27 checks passed
+==============================================================================
+
+════ validate_availability ════
+        expected : 0 overlaps
+        actual   : 0 overlaps
+
+==============================================================================
+RESULT: 15/15 availability tests passed
+==============================================================================
+
+════ final_audit ════
+==============================================================================
+
+FINAL STATUS:
+READY FOR DEVELOPMENT
+
+==============================================================================
+
+════ coverage_audit ════
+
+==============================================================================
+OVERALL PROJECT DATA COVERAGE: 99.1%   —   HIGH
+Method: mean of 19 category scores; each category is the mean of its
+requirement scores (1.0 covered, 0.5 runtime-dependent, 0.0 missing).
+==============================================================================
+

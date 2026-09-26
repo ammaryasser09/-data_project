@@ -1,0 +1,171 @@
+category,requirement,score,status
+Hotel information,overview,1.0,COVERED
+Hotel information,location,1.0,COVERED
+Hotel information,street address,1.0,COVERED
+Hotel information,contact details,1.0,COVERED
+Hotel information,check-in time,1.0,COVERED
+Hotel information,check-out time,1.0,COVERED
+Hotel information,reception hours,1.0,COVERED
+Hotel information,transportation,1.0,COVERED
+Hotel information,parking,1.0,COVERED
+Hotel information,wi-fi,1.0,COVERED
+Hotel information,facilities,1.0,COVERED
+Hotel information,policies,1.0,COVERED
+Room information,room types,1.0,COVERED
+Room information,descriptions,1.0,COVERED
+Room information,capacity,1.0,COVERED
+Room information,adults/children,1.0,COVERED
+Room information,bed types,1.0,COVERED
+Room information,amenities,1.0,COVERED
+Room information,pricing,1.0,COVERED
+Room information,physical rooms,1.0,COVERED
+Room information,room status,1.0,COVERED
+Room information,occupancy model,0.5,PARTIAL
+Booking,new booking flow,1.0,COVERED
+Booking,guest identification,1.0,COVERED
+Booking,room type selection,1.0,COVERED
+Booking,adults and children,1.0,COVERED
+Booking,dates,1.0,COVERED
+Booking,price calculation,1.0,COVERED
+Booking,confirmation,1.0,COVERED
+Booking,booking records,1.0,COVERED
+Availability,room available,1.0,COVERED
+Availability,room unavailable,1.0,COVERED
+Availability,alternative offered,1.0,COVERED
+Availability,exact boundary,1.0,COVERED
+Availability,cancelled non-block,1.0,COVERED
+Availability,no-show non-block,1.0,COVERED
+Availability,completed blocks,1.0,COVERED
+Availability,live query,0.5,PARTIAL
+Booking retrieval,by booking id,1.0,COVERED
+Booking retrieval,booking not found,1.0,COVERED
+Booking retrieval,status lookup,1.0,COVERED
+Booking retrieval,payment status,1.0,COVERED
+Booking retrieval,dates and price,1.0,COVERED
+Modification,change dates,1.0,COVERED
+Modification,change room type,1.0,COVERED
+Modification,change guests,1.0,COVERED
+Modification,recalculate price,1.0,COVERED
+Modification,unavailable change,1.0,COVERED
+Modification,invalid change,1.0,COVERED
+Modification,conversation flow,1.0,COVERED
+Cancellation,valid cancellation,1.0,COVERED
+Cancellation,cancellation policy,1.0,COVERED
+Cancellation,non-refundable,1.0,COVERED
+Cancellation,already cancelled,1.0,COVERED
+Cancellation,already completed,1.0,COVERED
+Cancellation,no-show distinction,1.0,COVERED
+Cancellation,refund relationship,1.0,COVERED
+Payment,payment status,1.0,COVERED
+Payment,payment methods,1.0,COVERED
+Payment,total amount,1.0,COVERED
+Payment,paid amount,1.0,COVERED
+Payment,remaining amount,1.0,COVERED
+Payment,confirmation,1.0,COVERED
+Payment,failed payment,1.0,COVERED
+Payment,partial refund,1.0,COVERED
+Payment,refund,1.0,COVERED
+Payment,pending,1.0,COVERED
+Payment,linked to booking,1.0,COVERED
+Services,catalogue,1.0,COVERED
+Services,restaurant,1.0,COVERED
+Services,room service,1.0,COVERED
+Services,housekeeping,1.0,COVERED
+Services,laundry,1.0,COVERED
+Services,transportation,1.0,COVERED
+Services,spa,1.0,COVERED
+Services,breakfast,1.0,COVERED
+Services,extra beds,1.0,COVERED
+Services,prices,1.0,COVERED
+Services,request process,1.0,COVERED
+Services,request status,1.0,COVERED
+Customer requests,request records,1.0,COVERED
+Customer requests,request types,1.0,COVERED
+Customer requests,room problems,1.0,COVERED
+Customer requests,housekeeping req,1.0,COVERED
+Customer requests,maintenance,1.0,COVERED
+Customer requests,billing questions,1.0,COVERED
+Customer requests,special requests,1.0,COVERED
+Customer requests,urgent requests,1.0,COVERED
+Customer requests,status tracking,1.0,COVERED
+Complaints,complaint intent,1.0,COVERED
+Complaints,ticket records,1.0,COVERED
+Complaints,complaint types,1.0,COVERED
+Complaints,resolution doc,1.0,COVERED
+Complaints,escalation path,1.0,COVERED
+Complaints,feedback records,1.0,COVERED
+Complaints,sentiment,1.0,COVERED
+No-show,policy document,1.0,COVERED
+No-show,grace period,1.0,COVERED
+No-show,releases room,1.0,COVERED
+No-show,stays in history,1.0,COVERED
+No-show,vs cancelled,1.0,COVERED
+No-show,records exist,1.0,COVERED
+No-show,non-blocking,1.0,COVERED
+Human handover,explicit request,1.0,COVERED
+Human handover,unresolved complaint,1.0,COVERED
+Human handover,sensitive payment,1.0,COVERED
+Human handover,cannot complete,1.0,COVERED
+Human handover,information unavailable,1.0,COVERED
+Human handover,repeated misunderstanding,1.0,COVERED
+Human handover,escalation flow,1.0,COVERED
+Intent coverage,intent count >= 20,1.0,COVERED
+Intent coverage,every intent 4 langs,1.0,COVERED
+Intent coverage,direct questions,1.0,COVERED
+Intent coverage,paraphrased,1.0,COVERED
+Intent coverage,scenarios,1.0,COVERED
+Intent coverage,ambiguous,1.0,COVERED
+Intent coverage,missing information,1.0,COVERED
+Intent coverage,out of scope,1.0,COVERED
+Intent coverage,label map,1.0,COVERED
+Multilingual,four languages,1.0,COVERED
+Multilingual,balance <= 1.10,1.0,COVERED
+Multilingual,conversations 4 langs,1.0,COVERED
+Multilingual,Egyptian dialect,1.0,COVERED
+Multilingual,script integrity,1.0,COVERED
+RAG,corpus built,1.0,COVERED
+RAG,all docs chunked,1.0,COVERED
+RAG,source attribution,1.0,COVERED
+RAG,hotel info category,1.0,COVERED
+RAG,rooms category,1.0,COVERED
+RAG,booking category,1.0,COVERED
+RAG,payment category,1.0,COVERED
+RAG,cancellation category,1.0,COVERED
+RAG,services category,1.0,COVERED
+RAG,policies category,1.0,COVERED
+RAG,retrieval eval,1.0,COVERED
+RAG,no contradictions,1.0,COVERED
+Conversations,availability flow,1.0,COVERED
+Conversations,booking flow,1.0,COVERED
+Conversations,modification flow,1.0,COVERED
+Conversations,cancellation flow,1.0,COVERED
+Conversations,unavailable+alternative,1.0,COVERED
+Conversations,payment problem,1.0,COVERED
+Conversations,complaint flow,1.0,COVERED
+Conversations,ambiguous+clarify,1.0,COVERED
+Conversations,missing information,1.0,COVERED
+Conversations,multi-room split,1.0,COVERED
+Conversations,service request,1.0,COVERED
+Conversations,handover flow,1.0,COVERED
+Agent / tools,routing matrix,1.0,COVERED
+Agent / tools,requires_tool flag,1.0,COVERED
+Agent / tools,response_mode flag,1.0,COVERED
+Agent / tools,availability tool data,1.0,COVERED
+Agent / tools,booking write target,1.0,COVERED
+Agent / tools,complaint write target,1.0,COVERED
+Agent / tools,request write target,1.0,COVERED
+Agent / tools,business rules doc,1.0,COVERED
+Agent / tools,live execution,0.5,PARTIAL
+Edge cases,invalid date range,1.0,COVERED
+Edge cases,past date,1.0,COVERED
+Edge cases,fully booked,1.0,COVERED
+Edge cases,invalid room type,1.0,COVERED
+Edge cases,capacity exceeded,1.0,COVERED
+Edge cases,exact capacity,1.0,COVERED
+Edge cases,booking not found,1.0,COVERED
+Edge cases,duplicate booking,1.0,COVERED
+Edge cases,conflicting request,1.0,COVERED
+Edge cases,out of scope,1.0,COVERED
+Edge cases,multi-room needed,1.0,COVERED
+
+OVERALL,,0.9912,HIGH

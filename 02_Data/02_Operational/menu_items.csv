@@ -1,0 +1,24 @@
+item_id,name_en,name_ar,category,price,dietary,night_menu
+M01,Hummus and baba ghanoush with warm bread,حمص وبابا غنوج بالعيش,Starters,350,"V,G",0
+M02,Fattoush salad,سلطة فتوش,Starters,320,"V,G",0
+M03,Chicken Caesar salad,سلطة سيزر بالفراخ,Starters,550,"G,D,E",0
+M04,Lentil soup,شوربة عدس,Starters,280,V,1
+M05,Vegetable club sandwich,كلوب ساندوتش خضار,Sandwiches,600,"V,G,E",1
+M06,Chicken shawarma wrap,شاورما فراخ,Sandwiches,850,G,1
+M07,Beef burger,برجر لحمة,Sandwiches,1150,"G,D",1
+M08,Grilled halloumi panini,بانيني حلوم مشوي,Sandwiches,650,"V,G,D",0
+M09,Grilled kofta with rice and tahini,كفتة مشوية بالرز والطحينة,Main courses,950,,0
+M10,Mixed grill,مشويات مشكلة,Main courses,1800,,0
+M11,Chicken escalope with mashed potatoes,إسكالوب فراخ ببيوريه البطاطس,Main courses,900,"G,D,E",0
+M12,Grilled sea bass fillet with vegetables,فيليه قاروص مشوي بالخضار,Main courses,1600,F,0
+M13,Beef tenderloin 180 g,ستيك فيليه 180 جرام,Main courses,2400,D,0
+M14,Penne arrabbiata,بيني أرابياتا,Main courses,550,"V,G",1
+M15,Koshary,كشري,Main courses,350,"V,G",0
+M16,Kids chicken nuggets with fries,ناجتس فراخ للأطفال,Children,450,"G,E",0
+M17,Om Ali,أم علي,Desserts,350,"D,G,N",1
+M18,Chocolate fondant with ice cream,فوندان شوكولاتة بالآيس كريم,Desserts,450,"D,G,E",0
+M19,"Mineral water, large",مياه معدنية كبيرة,Drinks,90,,1
+M20,Tea,شاي,Drinks,120,,1
+M21,Soft drink,مياه غازية,Drinks,120,,1
+M22,Turkish coffee,قهوة تركي,Drinks,150,,1
+M23,Fresh orange juice,عصير برتقال فريش,Drinks,220,,1

@@ -1,0 +1,39 @@
+SUPERSEDED / HISTORICAL — NOT SOURCE OF TRUTH (v3). See 07_Audits/Final/ for the current state.
+
+Validation results — generated 2026-09-25T23:42Z — SYSTEM_DATE 2026-09-19
+Regenerate: python3 06_Scripts/rebuild_all.py
+
+════ validate_dataset ════
+RESULT: 64/64 checks passed
+
+════ validate_database ════
+RESULT: 52/52 checks passed
+
+════ validate_availability ════
+RESULT: 15/15 availability tests passed
+
+════ coverage_audit ════
+OVERALL PROJECT DATA COVERAGE: 99.1%   —   HIGH
+
+════ final_audit ════
+  PASS     Database Integrity
+  PASS     Availability Integrity
+  PASS     Capacity Logic
+  PASS     Booking Integrity
+  PASS     Gold Integrity
+  PASS     Knowledge Base
+  PASS     RAG Readiness
+  PASS     Project Coverage
+  PASS     Validators
+FINAL STATUS:
+READY FOR DEVELOPMENT
+
+════ evaluate_retrieval (BM25) ════
+Retriever: BM25 (lexical baseline) | corpus 138 chunks / 41 docs | queries 3812
+language               n    R@1    R@3    R@5  MRR@10
+English              883  0.502  0.664  0.736   0.600
+French               871  0.148  0.212  0.302   0.227
+Russian              864  0.019  0.057  0.167   0.097
+Arabic               854  0.009  0.047  0.128   0.074
+Arabic-Egyptian      340  0.068  0.100  0.171   0.118
+ALL                 3812  0.162  0.235  0.321   0.240

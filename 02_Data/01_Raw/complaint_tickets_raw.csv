@@ -1,0 +1,76 @@
+ticket_id,customer_id,booking_id,complaint_type,priority,description,status,created_at,resolved_at
+CMP00001,C002302,B007441,Billing Issue,Low,Billing Issue - Guest satisfaction issue,Closed,2026-06-21 15:25:58,2026-09-09 15:25:58
+CMP00002,C007178,B001636,Billing Issue,Low,Billing Issue - Guest satisfaction issue,In Progress,2026-07-14 15:25:58,
+CMP00003,C008279,B007387,Room Issue,Low,Room Issue - Unexpected charge,Resolved,2026-07-18 15:25:58,2026-08-27 15:25:58
+CMP00004,C005354,,Booking Issue,Medium,Booking Issue - Amenity malfunction,Closed,2026-07-01 15:25:58,2026-09-01 15:25:58
+CMP00005,C000296,,Facility Issue,Low,Facility Issue - Guest satisfaction issue,Resolved,2026-06-26 15:25:58,2026-08-25 15:25:58
+CMP00006,C007299,,Room Issue,High,Room Issue - Unexpected charge,Open,2026-09-03 15:25:58,
+CMP00007,C007308,B018987,Booking Issue,Medium,Booking Issue - Guest satisfaction issue,Open,2026-08-02 15:25:58,
+CMP00008,C004981,B018927,Service Issue,High,Service Issue - Unexpected charge,Resolved,2026-09-11 15:25:58,2026-09-06 15:25:58
+CMP00009,C004126,B013479,Service Issue,High,Service Issue - Service quality concern,In Progress,2026-08-17 15:25:58,
+CMP00010,C008362,,Room Issue,High,Room Issue - Request for resolution,In Progress,2026-08-04 15:25:58,
+CMP00011,C005543,B006891,Billing Issue,Medium,Billing Issue - Amenity malfunction,Closed,2026-09-11 15:25:58,2026-09-08 15:25:58
+CMP00012,C006484,,Room Issue,High,Room Issue - Unexpected charge,Resolved,2026-07-08 15:25:58,2026-09-12 15:25:58
+CMP00013,C009578,B002143,Room Issue,Low,Room Issue - Guest satisfaction issue,Closed,2026-08-31 15:25:58,2026-08-30 15:25:58
+CMP00014,C005913,B015789,Room Issue,High,Room Issue - Amenity malfunction,Open,2026-09-14 15:25:58,
+CMP00015,C006494,B003951,Booking Issue,Medium,Booking Issue - Unexpected charge,Open,2026-08-06 15:25:58,
+CMP00016,C003390,B002808,Room Issue,High,Room Issue - Service quality concern,Resolved,2026-08-04 15:25:58,2026-09-06 15:25:58
+CMP00017,C001246,B006873,Billing Issue,Critical,Billing Issue - Unexpected charge,In Progress,2026-06-21 15:25:58,
+CMP00018,C000288,B007392,Service Issue,Critical,Service Issue - Request for resolution,In Progress,2026-08-23 15:25:58,
+CMP00019,C005458,B008789,Room Issue,Low,Room Issue - Service quality concern,Open,2026-06-30 15:25:58,
+CMP00020,C008130,B017299,Room Issue,Low,Room Issue - Unexpected charge,Resolved,2026-06-25 15:25:58,2026-09-17 15:25:58
+CMP00021,C006538,B003136,Billing Issue,Low,Billing Issue - Unexpected charge,In Progress,2026-06-21 15:25:58,
+CMP00022,C008021,B017267,Billing Issue,Low,Billing Issue - Amenity malfunction,Open,2026-07-28 15:25:58,
+CMP00023,C007132,B014041,Facility Issue,Medium,Facility Issue - Request for resolution,Open,2026-06-27 15:25:58,
+CMP00024,C008253,B002040,Booking Issue,Critical,Booking Issue - Service quality concern,In Progress,2026-08-15 15:25:58,
+CMP00025,C002070,B012754,Service Issue,High,Service Issue - Service quality concern,In Progress,2026-08-05 15:25:58,
+CMP00026,C007290,B000305,Booking Issue,Critical,Booking Issue - Service quality concern,Closed,2026-07-26 15:25:58,2026-09-05 15:25:58
+CMP00027,C001232,B007756,Room Issue,High,Room Issue - Guest satisfaction issue,Open,2026-07-03 15:25:58,
+CMP00028,C007900,B017192,Facility Issue,Low,Facility Issue - Unexpected charge,In Progress,2026-09-16 15:25:58,
+CMP00029,C002914,B006002,Billing Issue,Critical,Billing Issue - Service quality concern,Open,2026-08-10 15:25:58,
+CMP00030,C005292,,Room Issue,Medium,Room Issue - Request for resolution,Closed,2026-08-20 15:25:58,2026-09-09 15:25:58
+CMP00031,C009783,B006724,Service Issue,Critical,Service Issue - Request for resolution,Resolved,2026-08-21 15:25:58,2026-09-10 15:25:58
+CMP00032,C008949,B012322,Billing Issue,Low,Billing Issue - Request for resolution,Resolved,2026-06-29 15:25:58,2026-08-26 15:25:58
+CMP00033,C007558,B016489,Room Issue,Low,Room Issue - Request for resolution,Resolved,2026-07-12 15:25:58,2026-09-04 15:25:58
+CMP00034,C009559,B011301,Service Issue,Low,Service Issue - Unexpected charge,Resolved,2026-09-05 15:25:58,2026-08-27 15:25:58
+CMP00035,C008620,B008329,Room Issue,High,Room Issue - Amenity malfunction,Open,2026-08-17 15:25:58,
+CMP00036,C004376,B008091,Service Issue,Medium,Service Issue - Service quality concern,In Progress,2026-09-05 15:25:58,
+CMP00037,C009163,B011953,Room Issue,Low,Room Issue - Request for resolution,In Progress,2026-08-14 15:25:58,
+CMP00038,C001513,B012021,Facility Issue,Low,Facility Issue - Amenity malfunction,Closed,2026-07-20 15:25:58,2026-09-01 15:25:58
+CMP00039,C007864,,Facility Issue,Medium,Facility Issue - Guest satisfaction issue,Resolved,2026-08-08 15:25:58,2026-08-21 15:25:58
+CMP00040,C005374,,Billing Issue,High,Billing Issue - Service quality concern,In Progress,2026-08-06 15:25:58,
+CMP00041,C006226,B006131,Facility Issue,Medium,Facility Issue - Request for resolution,Open,2026-08-04 15:25:58,
+CMP00042,C009039,B011421,Booking Issue,Critical,Booking Issue - Request for resolution,Resolved,2026-09-13 15:25:58,2026-08-18 15:25:58
+CMP00043,C000893,,Service Issue,Critical,Service Issue - Guest satisfaction issue,Open,2026-07-22 15:25:58,
+CMP00044,C009157,,Room Issue,Low,Room Issue - Amenity malfunction,Closed,2026-07-01 15:25:58,2026-09-13 15:25:58
+CMP00045,C005007,B016544,Service Issue,Low,Service Issue - Service quality concern,In Progress,2026-09-12 15:25:58,
+CMP00046,C005734,B009609,Booking Issue,Critical,Booking Issue - Amenity malfunction,Open,2026-08-20 15:25:58,
+CMP00047,C003493,B011797,Booking Issue,Critical,Booking Issue - Guest satisfaction issue,Open,2026-08-23 15:25:58,
+CMP00048,C006356,B011819,Booking Issue,Low,Booking Issue - Amenity malfunction,Closed,2026-08-20 15:25:58,2026-08-22 15:25:58
+CMP00049,C002002,B001684,Facility Issue,Critical,Facility Issue - Guest satisfaction issue,In Progress,2026-09-08 15:25:58,
+CMP00050,C001141,B001437,Billing Issue,Medium,Billing Issue - Guest satisfaction issue,Open,2026-08-10 15:25:58,
+CMP00051,C005065,B011841,Service Issue,Medium,Service Issue - Service quality concern,Open,2026-08-31 15:25:58,
+CMP00052,C008165,B006530,Billing Issue,Critical,Billing Issue - Unexpected charge,Closed,2026-09-15 15:25:58,2026-09-10 15:25:58
+CMP00053,C006290,B018612,Service Issue,Critical,Service Issue - Unexpected charge,In Progress,2026-06-26 15:25:58,
+CMP00054,C000045,B001065,Billing Issue,Low,Billing Issue - Request for resolution,Open,2026-08-08 15:25:58,
+CMP00055,C005040,B013134,Billing Issue,Critical,Billing Issue - Unexpected charge,Open,2026-06-22 15:25:58,
+CMP00056,C004974,B009829,Facility Issue,Low,Facility Issue - Unexpected charge,Closed,2026-07-13 15:25:58,2026-08-30 15:25:58
+CMP00057,C000652,B015929,Facility Issue,Low,Facility Issue - Unexpected charge,Open,2026-07-03 15:25:58,
+CMP00058,C009770,,Service Issue,Low,Service Issue - Service quality concern,Resolved,2026-08-05 15:25:58,2026-08-23 15:25:58
+CMP00059,C000110,B011698,Room Issue,Low,Room Issue - Unexpected charge,Closed,2026-06-21 15:25:58,2026-08-31 15:25:58
+CMP00060,C004398,B017891,Service Issue,Low,Service Issue - Amenity malfunction,Closed,2026-09-16 15:25:58,2026-09-03 15:25:58
+CMP00061,C003335,B006960,Billing Issue,Critical,Billing Issue - Guest satisfaction issue,Open,2026-07-21 15:25:58,
+CMP00062,C006037,B017647,Billing Issue,Low,Billing Issue - Request for resolution,Open,2026-07-26 15:25:58,
+CMP00063,C007815,B009730,Service Issue,Medium,Service Issue - Request for resolution,Resolved,2026-08-24 15:25:58,2026-08-27 15:25:58
+CMP00064,C007959,B018103,Billing Issue,Critical,Billing Issue - Request for resolution,Open,2026-07-13 15:25:58,
+CMP00065,C004333,,Facility Issue,Low,Facility Issue - Request for resolution,In Progress,2026-09-12 15:25:58,
+CMP00066,C001505,B002330,Room Issue,Critical,Room Issue - Guest satisfaction issue,Resolved,2026-06-25 15:25:58,2026-08-22 15:25:58
+CMP00067,C002094,B019471,Service Issue,High,Service Issue - Unexpected charge,Open,2026-08-20 15:25:58,
+CMP00068,C008618,B010520,Booking Issue,Critical,Booking Issue - Amenity malfunction,Resolved,2026-06-30 15:25:58,2026-09-03 15:25:58
+CMP00069,C009420,B016773,Service Issue,Critical,Service Issue - Guest satisfaction issue,Resolved,2026-08-07 15:25:58,2026-09-08 15:25:58
+CMP00070,C002570,B016935,Room Issue,High,Room Issue - Amenity malfunction,Closed,2026-08-10 15:25:58,2026-09-02 15:25:58
+CMP00071,C000439,,Booking Issue,Medium,Booking Issue - Request for resolution,In Progress,2026-06-24 15:25:58,
+CMP00072,C008807,B006332,Billing Issue,Critical,Billing Issue - Service quality concern,Resolved,2026-07-12 15:25:58,2026-09-01 15:25:58
+CMP00073,C001184,B019646,Service Issue,Medium,Service Issue - Unexpected charge,Resolved,2026-08-30 15:25:58,2026-08-21 15:25:58
+CMP00074,C005457,B001667,Booking Issue,High,Booking Issue - Amenity malfunction,Resolved,2026-08-30 15:25:58,2026-09-16 15:25:58
+CMP00075,C005165,B007204,Billing Issue,High,Billing Issue - Service quality concern,Resolved,2026-06-25 15:25:58,2026-09-16 15:25:58
